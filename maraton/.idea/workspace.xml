@@ -4,33 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18fedf21-a14c-48a9-8d9e-1f577bf86660" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../dasd/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dasd/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dasd/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dasd/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dasd/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dasd/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dasd/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dasd/dasd.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dasd/src/main/kotlin/Main.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/maraton.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" />
-    </list>
+    <list default="true" id="18fedf21-a14c-48a9-8d9e-1f577bf86660" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="2OfUZZIKvWYZyRtxg8YheoVfxih" />
   <component name="ProjectViewState">
@@ -41,7 +19,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Administrator/IdeaProjects"
+    "last_opened_file_path": "C:/Users/Administrator/IdeaProjects/maraton"
   }
 }]]></component>
   <component name="RunManager">

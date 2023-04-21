@@ -35,23 +35,5 @@ fun editSolution(amount : Int, coin : IntArray) : Int{
         }
     }
 
-    printCoin(answer, amount, coin, intArrayOf(),0)
     return answer[amount]
-}
-
-fun printCoin (answer: IntArray, amount : Int, coin : IntArray, combination : IntArray, index :Int){
-    if( amount == 0){
-        println(combination.joinToString("+"))
-        return
-    }
-    for (i in index until coin.size){
-        val c = coin[i]
-        println("error 지점 ${c}")
-        if(c <= amount && answer[amount - c] > 0){
-            combination[index] = c
-
-            printCoin(answer, amount - c, coin, combination, index + 1)
-        }
-    }
-
 }

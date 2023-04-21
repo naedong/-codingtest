@@ -3,10 +3,8 @@ fun main(args: Array<String>) {
 
     var len = arrayOf("mislav", "stanko", "mislav", "ana")
     var com = arrayOf("mislav", "stanko", "ana")
-    // itSolution(len,com)
+
     println(editSolution(len,com))
-    // Try adding program arguments via Run/Debug configuration.
-    // Learn more about running applications: https://www.jetbrains.com/help/idea/running-applications.html.
 
 }
 

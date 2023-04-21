@@ -1,16 +1,9 @@
 fun main(args: Array<String>) {
-    println("Hello World!")
-
-    // Try adding program arguments via Run/Debug configuration.
-    // Learn more about running applications: https://www.jetbrains.com/help/idea/running-applications.html.
-    println("Program arguments: ${args.joinToString()}")
 
     var arr = arrayOf("123","456","789")
 
-    solution(arr)
     println(solution(arr))
 
-    println(testSolution(arr))
 }
 
 fun solution(phone_book: Array<String>): Boolean {
