@@ -72,7 +72,7 @@ fun logSolution(participant: Array<String>, completion: Array<String>): String {
             return key
         }
     }
-    return hash.toSortedMap().toString()
+    return ""
 }
 ```
 
